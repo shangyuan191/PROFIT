@@ -1,4 +1,4 @@
 # PROFIT
-> ### Predictive Research for Optimized Financial Insight and Trading
+> **P**redictive **R**esearch for **O**ptimized **F**inancial **I**nsight and **T**rading
 
 
